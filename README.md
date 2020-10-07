@@ -1,2 +1,2 @@
 # maps2
-[Read more words!](docs/screenshot.jpg)
+[Screen Shot](jen331.github.com/maps2/docs/screenshot.jpg)
