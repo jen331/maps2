@@ -1,2 +1,2 @@
 # maps2
-![ScreenShot](screenshot.jpg) 
+[Read more words!](docs/screenshot.jpg)
